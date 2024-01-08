@@ -1,6 +1,6 @@
 
 ## About the project
-Riverpod is a library that alleviates such state management problems. It is similar to the Provider library but more flexible and powerful. In Riverpod, global variables are derived from the ChangeNotifier or StateNotifier classes and a global provider is created. These providers can be used without being dependent on the widget tree. By using ref, we can monitor the values ​​of these providers and ensure that the relevant widgets are recreated when there are changes.
+Riverpod is a library that alleviates such state management problems. It is similar to the Provider library but more flexible and powerful. In Riverpod, global variables are derived from the ChangeNotifier or StateNotifier classes and a global provider is created. These providers can be used without being dependent on the widget tree. By using ref, we can monitor the values ​​of these providers and ensure that the relevant widgets are recreated when there are changes...
 
 
 
